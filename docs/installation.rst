@@ -22,6 +22,9 @@ The major dependencies of dataduct are:
 -  ``pyparsing``
 -  ``testfixtures``
 
+Ensure that a boto config file containing your AWS credentials is present.
+See the `boto docs<http://boto.cloudhackers.com/en/latest/boto_config_tut.html>`__.
+
 The visualizations are created using:
 
 -  ``graphviz``
